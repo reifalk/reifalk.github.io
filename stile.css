@@ -1,9 +1,10 @@
 body {
   background-color: lightblue;
   text-align: center;
+  margin-left: 15%;
+  margin-right%;
 }
 
 h1 {
   color: navy;
-  margin-left: 20px;
 }
